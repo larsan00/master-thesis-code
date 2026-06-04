@@ -1,2 +1,3 @@
-# master-thesis-code
-Python source code used for the numerical simulations, data analysis, and figure generation presented in my Master's thesis.
+# check
+
+Simulation and plotting code used to test and validate the numerical implementation and physical scenarios discussed in Chapter 3 of the Master's thesis.
