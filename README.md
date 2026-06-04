@@ -1,2 +1,3 @@
-# master-thesis-code
-Python source code used for the numerical simulations, data analysis, and figure generation presented in my Master's thesis.
+# Asymmetry
+
+This branch contains the simulation and plotting code used for the asymmetry analysis presented in Section 4.1 of the Master's thesis. The implemented test case considers a point force and compares the numerical results with the analytical solutions based on the Oseen tensor and the Landau-Squire solution.
